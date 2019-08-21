@@ -1,0 +1,14 @@
+temperature=5
+pressure=5
+humidity=1
+mode=3
+interval=2
+filter=4
+1=63
+2=125
+3=250
+4=500
+5=1000
+6=10000
+7=20000
+maxpackage=100
